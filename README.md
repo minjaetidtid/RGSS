@@ -163,13 +163,6 @@ If RGSS is useful in your research, please cite:
   volume    = {16883},
   year      = {2026}
 }
-
-@inproceedings{wang2023segrefiner,
-  title     = {SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process},
-  author    = {Wang, Mengyu and Ding, Henghui and Liew, Jun Hao and Liu, Jiajun and Zhao, Yao and Wei, Yunchao},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
-  year      = {2023}
-}
 ```
 
 ## License
