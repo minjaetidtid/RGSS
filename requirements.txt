@@ -1,0 +1,8 @@
+torch>=1.13
+torchvision
+numpy
+pillow
+opencv-python
+scikit-learn
+tqdm
+segmentation-models-pytorch>=0.3
